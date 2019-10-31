@@ -1,0 +1,1 @@
+This folder should include your scanproject.py and description for your log files.

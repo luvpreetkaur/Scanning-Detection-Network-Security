@@ -1,0 +1,11 @@
+16:54:16.690150 ARP, Request who-has 192.168.139.2 tell 192.168.139.1, length 46
+16:54:17.365121 ARP, Request who-has 192.168.139.2 tell 192.168.139.1, length 46
+16:54:18.365976 ARP, Request who-has 192.168.139.2 tell 192.168.139.1, length 46
+16:54:19.693711 ARP, Request who-has 192.168.139.2 tell 192.168.139.1, length 46
+16:54:20.367386 ARP, Request who-has 192.168.139.2 tell 192.168.139.1, length 46
+16:54:21.365051 ARP, Request who-has 192.168.139.2 tell 192.168.139.1, length 46
+16:54:24.019979 ARP, Request who-has 192.168.139.144 (Broadcast) tell 192.168.139.142, length 46
+16:54:24.020457 ARP, Reply 192.168.139.144 is-at 00:0c:29:9c:ce:04 (oui Unknown), length 46
+16:54:24.222900 IP 192.168.139.142.56019 > 192.168.139.2.domain: 39563+ PTR? 144.139.168.192.in-addr.arpa. (46)
+16:54:24.232084 IP 192.168.139.2.domain > 192.168.139.142.56019: 39563 NXDomain 0/1/0 (114)
+
